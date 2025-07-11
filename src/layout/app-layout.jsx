@@ -13,7 +13,7 @@ const AppLayout = () => {
        < Outlet /> {/* This will render the child route component  all route should render at htis place*/}
        </main> 
         <div className='p-10 text-center bg-gray-800 m-10'>
-            made with by roadsidecoder
+            made with by Anish
         </div>
      
       
